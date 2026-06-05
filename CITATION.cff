@@ -8,7 +8,7 @@ type: software
 authors:
   - given-names: Du
     family-names: Hongxi
-    email: 390910316336@qq.com
+    email: 3909103136@qq.com
     affiliation: Guangdong Baiyun University
 version: 1.0.0
 date-released: 2026-06-05
@@ -16,7 +16,9 @@ license: MIT
 repository-code: 'https://github.com/Tatsumi-ccibu/DeepCognitiveAgent'
 url: 'https://github.com/Tatsumi-ccibu/DeepCognitiveAgent'
 abstract: >-
-  A system for dynamic memory conflict resolution in conversational agents based on LLMs, including memory updates based on confidence assessment, knowledge compression, and manual user correction commands.
+  A system for dynamic memory conflict resolution in conversational agents based on LLMs,
+  including memory updates based on confidence assessment, knowledge compression,
+  and manual user correction commands.
 keywords:
   - LLM
   - conversational agent
